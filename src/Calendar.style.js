@@ -39,20 +39,22 @@ export default StyleSheet.create({
     justifyContent: "center",
     alignSelf: "center"
   },
-  dateName: {
-    textAlign: "center"
-  },
-  weekendDateName: {
-    color: "#28318c",
-    textAlign: "center"
-  },
-  dateNumber: {
-    fontWeight: "bold",
-    textAlign: "center"
-  },
-  weekendDateNumber: {
-    color: "#28318c",
-    fontWeight: "bold",
-    textAlign: "center"
-  }
+    dateName: {
+        color: "#28318c",
+        textAlign: "center"
+    },
+    weekendDateName: {
+        color: "#28318c",
+        textAlign: "center"
+    },
+    dateNumber: {
+        color: "#28318c",
+        fontWeight: "bold",
+        textAlign: "center"
+    },
+    weekendDateNumber: {
+        color: "#28318c",
+        fontWeight: "bold",
+        textAlign: "center"
+    }
 });
