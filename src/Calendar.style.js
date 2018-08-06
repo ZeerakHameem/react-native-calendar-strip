@@ -56,7 +56,4 @@ export default StyleSheet.create({
         color: "#28318c",
         fontWeight: "bold",
         textAlign: "center"
-    },
-  hammad:{
-    
-});
+    });
