@@ -43,7 +43,7 @@ export default StyleSheet.create({
     textAlign: "center"
   },
   weekendDateName: {
-    color: "#A7A7A7",
+    color: "#28318c",
     textAlign: "center"
   },
   dateNumber: {
@@ -51,7 +51,7 @@ export default StyleSheet.create({
     textAlign: "center"
   },
   weekendDateNumber: {
-    color: "#A7A7A7",
+    color: "#28318c",
     fontWeight: "bold",
     textAlign: "center"
   }
